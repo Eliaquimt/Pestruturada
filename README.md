@@ -1,1 +1,1 @@
-# Pestruturada
+# Programção estruturada
