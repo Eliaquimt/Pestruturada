@@ -1,0 +1,52 @@
+﻿ID,Pergunta,A,Nó A,B,Nó B
+1,bedrooms<=2.5?, SIM,2,NÃO,3
+2,bathroom<=1.375?,SIM,4,NÃO,5
+3,bedroom<=3.5?,SIM,6,NÃO,7
+4,condition<=3.5?,SIM,8,NÃO,9
+5,NÓ FOLHA,Casa acima do preço de mercado.
+6,condition<=3.5?,SIM,10,NÃO,11
+7,bedrooms<=5.5?,SIM,12,NÃO,13
+8,condition<=2.5?,SIM,14,NÃO,15
+9,NÓ FOLHA, Casa acima do preço de mercado.
+10,bathrooms<=2.6?,SIM,16,NÃO,17
+11,condition<=4.5?,SIM,18,NÃO,19
+12,condition<=3.5?,SIM,20,NÃO,21
+13,NÓ FOLHA,Casa abaixo do preço de mercado.
+14,NÓ FOLHA,Casa abaixo do preço de mercado.
+15,NÓ FOLHA,Casa na média do preço de mercado.
+16,bathrooms<=2.125?,SIM,22,NÃO,23
+17,bathrooms<=2.875?,SIM,24,NÃO,25
+18,bathrooms<=2.875?,SIM,26,NÃO,27
+19,NÓ FOLHA,Casa na média do preço de mercado.
+20,bathrooms<=1.875?,SIM,28,NÃO,29
+21,bathrooms<=2.75?,SIM,30,NÃO,31
+22,bathrooms<=1.25?,SIM,32,NÃO,33
+23,NÓ FOLHA,Casa na média do preço de mercado
+24,NÓ FOLHA,Casa abaixo do preço de mercado
+25,bathrooms<=3.625?,SIM,34,NÃO,35
+26,bathrooms<=2.125?,SIM,36,NÃO,37
+27,NÓ FOLHA,Casa acima do preço de mercado
+28,NÓ FOLHA,Casa abaixo do preço de mercado
+29,bathrooms<=2.625,SIM,38,NÃO,39
+30,bathrooms<=2?,SIM,40,NÃO,41
+31,NÓ FOLHA,Casa na média do preço de mercado
+32,NÓ FOLHA,Casa na média do preço de mercado
+33,bathrooms<=1.625?,SIM,42,NÃO,43
+34,NÓ FOLHA,Casa na média do preço de mercado
+35,bathrooms<=3.875?,SIM,44,NÃO,45
+36,bathrooms<=1.375?,SIM,46,NÃO,47
+37,NÓ FOLHA,Casa abaixo do preço de mercado.
+38,NÓ FOLHA,Casa na média do preço de mercado
+39,bathrooms<=3.125?,SIM,48,NÃO,49
+40,NÓ FOLHA,Casa na média do preço de mercado
+41,condition<=4.5?,SIM,50,NÃO,51
+42,NÓ FOLHA,Casa abaixo do preço de mercado
+43,NÓ FOLHA,Casa na média do preço de mercado
+44,NÓ FOLHA,Casa abaixo do preço de mercado
+45,NÓ FOLHA,Casa na média do preço de mercado
+46,NÓ FOLHA,Casa abaixo do preço de mercado
+47,NÓ FOLHA,Casa na média do preço de mercado
+48,NÓ FOLHA,Casa abaixo do preço de mercado
+49,NÓ FOLHA,Casa na média do preço de mercado
+50,NÓ FOLHA,Casa abaixo do preço de mercado
+51,NÓ FOLHA,Casa na média do preço de mercado
